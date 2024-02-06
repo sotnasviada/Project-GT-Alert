@@ -1,7 +1,7 @@
 <TABLE border="2">
 <TR>
 <TD>
-<IMG src="ss ni lk.jpg">
+<IMG src="ss ni lk.jpg.png">
 </TD>
 <TD>
 <TABLE border="2">
